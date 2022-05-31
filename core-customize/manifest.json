@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2011.11",
+    "commerceSuiteVersion": "2005",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
@@ -289,7 +289,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": ""
+                    "contextPath": "/dm"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
