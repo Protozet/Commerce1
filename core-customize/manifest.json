@@ -358,7 +358,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
+                    "contextPath": "/dm"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
